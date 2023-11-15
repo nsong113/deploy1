@@ -1,9 +1,28 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+    {
+      "name": "윤땡땡",
+      "content": "파이팅해!̆̈ !̆̈!̆̈!̆̈ !̆̈   !!!",
+      "id": 1
+    },
+    {
+      "name": "김땡이",
+      "content": "잘할 수 있오!̆̈ !̆̈!̆̈  !",
+      "id": 2
+    }
   ],
-  "profile": { "name": "typicode" }
+  "todos": [
+    {
+      "name": "송디우",
+      "title": "할일1",
+      "content": "와ㅏㅏㅏㅏ 하자!̆̈ !̆̈!̆̈  !",
+      "id": 1
+    },
+    {
+      "name": "디우",
+      "title": "리엑트 열공",
+      "content": "와ㅏㅏ 하자!̆̈ !̆̈!̆̈!̆̈ !̆̈   !!!",
+      "id": 2
+    }
+  ]
 }
